@@ -17,18 +17,21 @@ src="https://img.shields.io/twitch/status/baiano_de_moraes?logo=twitchsx&style=f
                     </p>
                     <br clear="both">
 
-<h2 align="left"></h2>
+<p align="center"></p>
 
 ###
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=LeonDev633&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonDev633&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+  <img src="https://github-readme-stats.vercel.app/api?username=LeonDev633&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=default&locale=pt-br&hide_border=false" height="200" alt="stats graph"  />
+  <img src="https://streak-stats.demolab.com?user=LeonDev633&locale=pt-br&mode=weekly&theme=default&hide_border=true&border_radius=5" height="180" alt="streak graph"  />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=LeonDev633&locale=pt-br&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=default&hide_border=false" height="150" alt="languages graph"  />
 </div>
 
 ###
 
-<img align="right" height="0" src=""  />
+<br clear="both">
+
+<img align="left" height="0" src=""  />
 
 ###
 
@@ -61,8 +64,12 @@ src="https://img.shields.io/twitch/status/baiano_de_moraes?logo=twitchsx&style=f
 
 ###
 
+<img src="https://raw.githubusercontent.com/LeonDev633/LeonDev633/output/snake.svg" alt="Snake animation" />
+
+###
+
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/LeonDev633/LeonDev633/output/snake.svg" alt="Snake animation" />
+<p align="center"></p>
 
 ###
